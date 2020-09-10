@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Familiar"
+    "string": "Compliance"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 65,
-    "x": 775,
+    "width": 96,
+    "x": 759.5,
     "y": 399
   },
-  "glyphBounds": "{{1, 1}, {63, 13}}",
+  "glyphBounds": "{{0, 1}, {95, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Familiar Copy",
+  "name": "Compliance",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

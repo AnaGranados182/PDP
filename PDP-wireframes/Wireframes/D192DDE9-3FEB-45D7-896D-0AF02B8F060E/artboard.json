@@ -913,23 +913,19 @@
     },
     {
       "class": "rectangle",
-      "id": "0C355787-02C9-49BE-B656-9F5DE007138D"
-    },
-    {
-      "class": "rectangle",
-      "id": "94529F85-DFEF-48E6-89F7-4035D1C7FF38"
-    },
-    {
-      "class": "rectangle",
-      "id": "F62E14C5-700C-488D-82FB-0A946DCD05CA"
-    },
-    {
-      "class": "rectangle",
       "id": "4D974166-C330-4BC3-BB4A-B2DBA3824166"
     },
     {
       "class": "rectangle",
       "id": "8880C87B-627A-4DEB-91A1-AF0639EC44FC"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E70B053-1125-4165-B2EE-A442A4F5F8D0"
+    },
+    {
+      "class": "rectangle",
+      "id": "F136ED19-6CAE-4B65-9E92-FABCECBC2AC5"
     },
     {
       "class": "rectangle",
@@ -954,10 +950,6 @@
     {
       "class": "rectangle",
       "id": "C78AD2E3-DEC8-4A89-BFAB-15A35E8FCBF6"
-    },
-    {
-      "class": "shapePath",
-      "id": "941734D9-3CE6-4083-BE9A-CC875B365D46"
     },
     {
       "class": "rectangle",
@@ -1021,18 +1013,6 @@
     },
     {
       "class": "text",
-      "id": "BE5F82F5-9A74-44A4-B7DA-57E9DF135BFE"
-    },
-    {
-      "class": "text",
-      "id": "C5B6E2DD-ADD5-4902-A132-24C354E7A865"
-    },
-    {
-      "class": "text",
-      "id": "AA2742C9-B1A6-49CD-9270-EF58D64B7EA5"
-    },
-    {
-      "class": "text",
       "id": "65DB88D1-E1CF-402B-9BEC-05C24AEEA1A9"
     },
     {
@@ -1050,10 +1030,6 @@
     {
       "class": "text",
       "id": "03196105-E281-4E07-B0D5-93009FE90185"
-    },
-    {
-      "class": "text",
-      "id": "7E6E588F-8C46-4AEB-A806-079B7AD678A1"
     },
     {
       "class": "text",
@@ -1086,18 +1062,6 @@
     {
       "class": "symbolInstance",
       "id": "9F34AE48-2D9A-4ECC-8AEC-8D3ECE247C92"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F11962FE-4391-47BB-A430-3BF295A2E2F8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "974827FC-789C-4BA0-9A49-E6B5FD8DA4F7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DB1D93A3-3A21-4956-AC6F-F9ACDD9C3F49"
     },
     {
       "class": "text",

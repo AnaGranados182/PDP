@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F11962FE-4391-47BB-A430-3BF295A2E2F8",
+  "do_objectID": "BAC84DFC-50A3-4398-8F07-AE35533B8522",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 14,
-    "x": 756,
-    "y": 255
+    "height": 117,
+    "width": 117,
+    "x": 1075,
+    "y": 114
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Regular/bell Copy 23",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "F352C73F-5B3F-417C-934D-87135D181A45_symbolID",
-      "value": "9B8C3DB2-5954-4F3E-A3AE-A814015D1317"
+      "class": "oval",
+      "id": "5CF7C6F2-5445-45A4-AE3C-9723FF5CE5A2"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A9D61D1-7554-4645-B130-22E8C48D529B"
     }
   ],
+  "name": "Rectangle",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "780CAA56-07FF-4725-B782-98068DBCB64E",
+    "do_objectID": "B7FFDCF1-589F-4FE5-8A33-B0343ADDF7D9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "772ECADC-44D0-42A8-8634-9400F3ABCF20",
-  "verticalSpacing": 0
+  }
 }

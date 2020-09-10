@@ -1,9 +1,9 @@
 {
-  "_class": "shapePath",
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "55B35D75-92F9-41EB-B5D3-5D0696EA01E9",
-  "edited": true,
+  "do_objectID": "6E70B053-1125-4165-B2EE-A442A4F5F8D0",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,45 +13,68 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 258,
-    "x": 230,
-    "y": 653
+    "height": 37.55555555555556,
+    "width": 363,
+    "x": 290,
+    "y": 384.7222222222222
   },
   "hasClippingMask": false,
-  "isClosed": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Line 10",
+  "name": "Rectangle Copy 85",
   "nameIsFixed": false,
+  "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.0019379844961240321, 0.50000000000000533}",
+      "cornerRadius": 4,
+      "curveFrom": "{0, 0}",
       "curveMode": 1,
-      "curveTo": "{0.0019379844961240321, 0.50000000000000533}",
+      "curveTo": "{0, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.0019379844961240321, 0.50000000000000533}"
+      "point": "{0, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.0019379844961240321, 0.50000000000000533}",
+      "cornerRadius": 4,
+      "curveFrom": "{1, 0}",
       "curveMode": 1,
-      "curveTo": "{0.0019379844961240321, 0.50000000000000533}",
+      "curveTo": "{1, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99806201550387597, 0.5}"
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 4,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 4,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -65,7 +88,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 9,
       "saturation": 1,
       "type": 0
     },
@@ -74,7 +97,7 @@
       "dashPattern": [
       ],
       "isEnabled": true,
-      "lineCapStyle": 2,
+      "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
     "borders": [
@@ -83,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9137254901960784,
-          "green": 0.9137254901960784,
-          "red": 0.9137254901960784
+          "blue": 0.392156862745098,
+          "green": 0.392156862745098,
+          "red": 0.392156862745098
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -125,8 +148,8 @@
           "to": "{0.5, 1}"
         },
         "isEnabled": true,
-        "position": 0,
-        "thickness": 1
+        "position": 1,
+        "thickness": 0.9
       }
     ],
     "colorControls": {
@@ -142,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B3CFBF23-1057-43BB-9169-76EE8C2A008E",
+    "do_objectID": "16E7F56E-412D-4E81-9B41-FB1DC77D5152",
     "endMarkerType": 0,
     "fills": [
       {
@@ -150,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -191,7 +214,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

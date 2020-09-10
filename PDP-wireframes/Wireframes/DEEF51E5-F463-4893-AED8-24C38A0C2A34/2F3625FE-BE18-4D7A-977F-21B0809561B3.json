@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Familiar"
+    "string": "Needs to improve"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 65,
-    "x": 775,
+    "width": 143,
+    "x": 736,
     "y": 453
   },
-  "glyphBounds": "{{1, 1}, {63, 13}}",
+  "glyphBounds": "{{1, 1}, {142, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Familiar Copy 2",
+  "name": "Needs to improve",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
