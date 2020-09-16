@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 16
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 96,
-    "x": 759.5,
-    "y": 399
+    "height": 14,
+    "width": 84,
+    "x": 765.5,
+    "y": 401
   },
-  "glyphBounds": "{{0, 1}, {95, 15}}",
+  "glyphBounds": "{{0, 0}, {83, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -128,7 +128,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 16
+            "size": 14
           }
         },
         "paragraphStyle": {

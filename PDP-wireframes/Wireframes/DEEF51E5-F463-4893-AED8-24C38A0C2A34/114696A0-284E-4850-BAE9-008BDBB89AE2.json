@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
-    "width": 128,
-    "x": 618,
-    "y": 383
+    "height": 44,
+    "width": 150,
+    "x": 580,
+    "y": 384
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -147,7 +147,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 0.9
       }
@@ -227,10 +227,10 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 4,
+        "blurRadius": 9,
         "color": {
           "_class": "color",
-          "alpha": 0.2824246066433567,
+          "alpha": 0.1,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -242,7 +242,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 0,
+        "offsetY": 2,
         "spread": 0
       }
     ],

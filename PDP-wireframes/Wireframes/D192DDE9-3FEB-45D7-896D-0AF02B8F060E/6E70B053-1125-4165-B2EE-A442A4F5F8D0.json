@@ -20,7 +20,7 @@
     "height": 37.55555555555556,
     "width": 363,
     "x": 290,
-    "y": 384.7222222222222
+    "y": 382.7222222222222
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -225,6 +225,26 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 6,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2161276223776224,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1

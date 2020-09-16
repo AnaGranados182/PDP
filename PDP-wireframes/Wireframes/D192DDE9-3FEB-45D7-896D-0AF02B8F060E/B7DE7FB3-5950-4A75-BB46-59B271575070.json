@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Action plan"
+    "string": "Edit Action plan"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 117,
-    "x": 231,
-    "y": 152
+    "width": 164,
+    "x": 247,
+    "y": 126
   },
-  "glyphBounds": "{{0, 1}, {116, 19}}",
+  "glyphBounds": "{{1, 1}, {162, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Action plan",
+  "name": "Edit Action plan",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

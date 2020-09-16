@@ -1037,11 +1037,15 @@
     },
     {
       "class": "text",
-      "id": "548DF304-B023-4EC6-86FA-A73173D7EEAE"
+      "id": "EEA3DA30-BCD6-4DC5-897D-DF4504F3A5A4"
     },
     {
-      "class": "symbolInstance",
-      "id": "A3FC2CA4-56D0-45AE-9686-5EF195F66368"
+      "class": "text",
+      "id": "6F49B3B8-4D18-4563-B826-FFBE6745477B"
+    },
+    {
+      "class": "text",
+      "id": "548DF304-B023-4EC6-86FA-A73173D7EEAE"
     },
     {
       "class": "symbolInstance",
@@ -1062,10 +1066,6 @@
     {
       "class": "symbolInstance",
       "id": "9F34AE48-2D9A-4ECC-8AEC-8D3ECE247C92"
-    },
-    {
-      "class": "text",
-      "id": "261096EB-690B-41BF-99B6-4402FCE5DDB2"
     },
     {
       "class": "text",

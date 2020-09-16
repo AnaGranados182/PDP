@@ -38,6 +38,18 @@
         },
         "do_objectID": "E199850B-0D96-4C52-85A6-AD6192EF054D",
         "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8115942028985508,
+          "green": 0.8115942028985508,
+          "red": 0.8115942028985508
+        },
+        "do_objectID": "1D4DDD12-F244-442E-B2EB-DA56E9EE08FE",
+        "name": ""
       }
     ],
     "colors": [
@@ -61,6 +73,13 @@
         "blue": 0.9137254901960784,
         "green": 0.9137254901960784,
         "red": 0.9137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8115942028985508,
+        "green": 0.8115942028985508,
+        "red": 0.8115942028985508
       }
     ],
     "do_objectID": "FAD3ED95-893D-4FE3-8EF4-5AC3EA7F7E0A",
@@ -47340,8 +47359,8 @@
     ]
   },
   "meta": {
-    "appVersion": "68",
-    "build": 102490,
+    "appVersion": "68.2",
+    "build": 102594,
     "version": 131
   },
   "pages": [
