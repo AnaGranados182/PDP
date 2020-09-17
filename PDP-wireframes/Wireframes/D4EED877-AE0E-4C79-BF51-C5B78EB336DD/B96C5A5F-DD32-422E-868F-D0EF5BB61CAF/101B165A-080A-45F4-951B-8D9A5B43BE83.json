@@ -1,8 +1,8 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6B5BAA46-D78A-4730-8325-3DDEB9E9355B",
+  "do_objectID": "101B165A-080A-45F4-951B-8D9A5B43BE83",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 27,
-    "x": 28,
-    "y": 169
+    "height": 23,
+    "width": 23,
+    "x": -1,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Regular/bell Copy 2",
+  "name": "Color",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "7D51FFA8-2D27-450A-9315-BA7F1EEC75F3_symbolID",
-      "value": "9B8C3DB2-5954-4F3E-A3AE-A814015D1317"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F7468407-56C2-4DB9-BE68-2BE0F9C5AC2F",
+    "do_objectID": "61C6B9E5-9A13-44EA-AF32-1AB18C8C598E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "798D3124-904F-4CE0-89CA-0ACFA604601C",
+  "symbolID": "9B8C3DB2-5954-4F3E-A3AE-A814015D1317",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

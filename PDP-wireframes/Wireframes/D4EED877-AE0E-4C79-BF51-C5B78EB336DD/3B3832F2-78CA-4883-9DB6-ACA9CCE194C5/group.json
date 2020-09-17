@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0AE74821-07FE-4D42-994A-926201E89153",
+  "do_objectID": "3B3832F2-78CA-4883-9DB6-ACA9CCE194C5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20.7,
-    "width": 20.7,
-    "x": 426,
+    "height": 21,
+    "width": 17,
+    "x": 428,
     "y": 402
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Regular/bell Copy 32",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "F4980EB9-4950-4FA3-B845-0F3B12AA0051_symbolID",
-      "value": "9B8C3DB2-5954-4F3E-A3AE-A814015D1317"
+      "class": "shapeGroup",
+      "id": "801D0889-7C06-459C-8998-C7E09DDA0DE1"
     }
   ],
+  "name": "Regular/bell Copy 32",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.9,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1A78CA23-A136-4768-B862-043E56F3DB07",
+    "do_objectID": "DEC4C673-7DA3-41BD-98FF-183A0B8557A5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +89,40 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9314AE88-E5A1-44A0-8980-5D5A82923F30",
-  "verticalSpacing": 0
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "0AE74821-07FE-4D42-994A-926201E89153",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 20.7,
+          "width": 20.7,
+          "x": 426,
+          "y": 402
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "C87C5C97-3200-4618-B182-5E425C9FAA8D",
+        "symbolID": "9314AE88-E5A1-44A0-8980-5D5A82923F30"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "0AE74821-07FE-4D42-994A-926201E89153",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 20.7,
+          "width": 20.7,
+          "x": 426,
+          "y": 402
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "C87C5C97-3200-4618-B182-5E425C9FAA8D",
+        "symbolID": "9314AE88-E5A1-44A0-8980-5D5A82923F30"
+      }
+    }
+  }
 }
