@@ -198,7 +198,7 @@
       "do_objectID": "B16C75A3-98C5-4132-AD07-F319DC57B7D1",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Book.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Gotham-Book"
       ]
@@ -50321,7 +50321,7 @@
   },
   "pages": [
     "Wireframes",
-    "Admin"
+    " "
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
