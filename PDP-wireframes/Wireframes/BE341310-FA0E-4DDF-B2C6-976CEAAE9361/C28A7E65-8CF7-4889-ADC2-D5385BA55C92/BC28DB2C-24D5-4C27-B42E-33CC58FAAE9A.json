@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 20,
     "width": 20,
-    "x": 652,
+    "x": 539,
     "y": 323
   },
   "hasClippingMask": false,
@@ -74,7 +74,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.3818126860119048
     },
     "do_objectID": "A9F7234F-A25F-4ED3-B15D-F79572219434",
     "endMarkerType": 0,
