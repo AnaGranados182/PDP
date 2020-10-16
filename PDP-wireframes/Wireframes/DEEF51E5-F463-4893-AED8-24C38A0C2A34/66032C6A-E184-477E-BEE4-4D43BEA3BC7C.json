@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Expert"
+    "string": "Familiar"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 47,
-    "x": 497.5,
+    "width": 57,
+    "x": 477,
     "y": 455
   },
-  "glyphBounds": "{{1, 1}, {46, 13}}",
+  "glyphBounds": "{{1, 0}, {55, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Expert Copy 2",
+  "name": "Familiar",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 13,
-    "width": 13,
-    "x": 553,
-    "y": 346
+    "height": 9,
+    "width": 9,
+    "x": 540,
+    "y": 347
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,7 +33,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "7DF2D65A-461A-4E87-809F-EDC4B899C9D5_symbolID",
+      "overrideName": "257904CA-5A05-4095-9146-30FEB5DEC954_symbolID",
       "value": "9B8C3DB2-5954-4F3E-A3AE-A814015D1317"
     }
   ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DDDB982E-FB69-4624-9D4C-3289989D6349",
+  "symbolID": "6A638D18-5425-4A27-A222-EE4564CD8118",
   "verticalSpacing": 0
 }
