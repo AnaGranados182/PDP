@@ -116,12 +116,24 @@
       "id": "CB709A6C-7544-43CF-BFF1-E41FD1C45E65"
     },
     {
-      "class": "group",
-      "id": "4E7F3E41-F1BC-4554-93D1-4A32BD58AFC1"
-    },
-    {
       "class": "shapePath",
       "id": "C971C1E1-04AC-4D77-9EB4-51A9753DAA82"
+    },
+    {
+      "class": "text",
+      "id": "C3F8E6EC-FF55-4093-AEE3-4CDAD847CDDC"
+    },
+    {
+      "class": "text",
+      "id": "8001267E-A480-4195-8A85-2328ABD4675D"
+    },
+    {
+      "class": "text",
+      "id": "2F6527B3-5FA0-42D0-BE5C-AAE170D6BC13"
+    },
+    {
+      "class": "text",
+      "id": "88D28ECA-7616-449C-A288-94524C5C85D3"
     }
   ],
   "name": "card-Pathfindee",
