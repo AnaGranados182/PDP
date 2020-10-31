@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Pathfindees"
+    "string": "Overview"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 96,
+    "width": 77,
     "x": 51,
-    "y": 176
+    "y": 261
   },
-  "glyphBounds": "{{1, 1}, {95, 13}}",
+  "glyphBounds": "{{0, 1}, {77, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Pathfindees",
+  "name": "Overview",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

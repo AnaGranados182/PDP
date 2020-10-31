@@ -45,6 +45,10 @@
     },
     {
       "class": "artboard",
+      "id": "205DB1D4-FCFB-44F5-B928-E3A427CF21F3"
+    },
+    {
+      "class": "artboard",
       "id": "F94CB303-DFD5-4CCF-8414-7E7246B0EC1D"
     },
     {
@@ -53,7 +57,15 @@
     },
     {
       "class": "artboard",
+      "id": "26E5C758-41FF-41C3-A821-5F56D183231F"
+    },
+    {
+      "class": "artboard",
       "id": "DEEF51E5-F463-4893-AED8-24C38A0C2A34"
+    },
+    {
+      "class": "artboard",
+      "id": "6C1B7977-8E23-4854-BA2F-1309B8970321"
     },
     {
       "class": "artboard",
@@ -61,11 +73,23 @@
     },
     {
       "class": "artboard",
+      "id": "EC689D10-9E87-4B54-8B5F-D76DE268EBEF"
+    },
+    {
+      "class": "artboard",
       "id": "BE341310-FA0E-4DDF-B2C6-976CEAAE9361"
     },
     {
       "class": "artboard",
+      "id": "E072470D-765E-449E-A01D-BBB188CDC846"
+    },
+    {
+      "class": "artboard",
       "id": "5F7320FA-6CE4-46B0-B272-B7B62ABAB36C"
+    },
+    {
+      "class": "text",
+      "id": "993D7C94-41BB-43E8-95C6-9A46B4D47C2A"
     }
   ],
   "name": "Wireframes",
