@@ -1,0 +1,188 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1D0651D-BBA7-4967-8CE1-D645CF1BB3BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 736,
+    "width": 285,
+    "x": 995,
+    "y": 60
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B12D0215-78B1-4F4F-BD47-FE935988A8EB"
+    },
+    {
+      "class": "group",
+      "id": "188DECBA-6B9C-4111-962F-827D0732C873"
+    },
+    {
+      "class": "text",
+      "id": "7BE1717A-8A58-40BA-A5D0-DB3135F0696A"
+    },
+    {
+      "class": "text",
+      "id": "9694A354-8D50-42A8-B702-9F96E7246FF7"
+    },
+    {
+      "class": "text",
+      "id": "D8AF8E2D-6F0C-4B04-BA37-247E4261D6A8"
+    },
+    {
+      "class": "text",
+      "id": "D53350EC-DA70-430B-B269-6123F2FE0CCD"
+    },
+    {
+      "class": "text",
+      "id": "5D7CBA39-5853-4ED0-9900-B89A5DE3657A"
+    },
+    {
+      "class": "text",
+      "id": "6F9DEFBA-D903-4CC2-9901-DC61F02108C0"
+    },
+    {
+      "class": "text",
+      "id": "774E9B71-25BD-43EE-8807-4D54FB609839"
+    },
+    {
+      "class": "text",
+      "id": "7564FB37-53B7-427C-9082-8A5EDCEE162A"
+    },
+    {
+      "class": "text",
+      "id": "C5580EF2-7358-4143-9931-C667A6160FE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44459ABE-293B-459A-8467-4EB332BA617D"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0F6E8E1-C21F-4213-ABB2-4338A18C0E86"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D5E3B23-2508-4DBE-832B-EB37D017E112"
+    },
+    {
+      "class": "shapePath",
+      "id": "746DFD49-64F7-4D68-95B6-2818D76FD19C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "640BD39E-5A10-47EA-ABB0-656048DE55AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B8AD494-9232-4657-B097-97B35BCA486C"
+    },
+    {
+      "class": "text",
+      "id": "DC2E7DCF-9D3B-49D2-9C20-8778D4FCF56C"
+    },
+    {
+      "class": "text",
+      "id": "2B45D5A8-A0A6-4754-818E-4026511143CB"
+    },
+    {
+      "class": "text",
+      "id": "881E0227-7A6B-4E8B-89B4-E69D6EF5EC80"
+    },
+    {
+      "class": "rectangle",
+      "id": "F8C1034F-385C-4493-B965-51894A4C114C"
+    },
+    {
+      "class": "text",
+      "id": "AE70A33E-B6F5-43AF-B608-3A1F7D54D5E0"
+    },
+    {
+      "class": "text",
+      "id": "EF66C9EF-4671-4D3A-98F5-A9F1624AAAF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB2F1FCF-5915-41EC-893E-C1B023BE5C8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8214412-B98C-4097-952F-3A637BE97254"
+    }
+  ],
+  "name": "Lateral Panel Dashboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "62B7E94D-4ADA-4D8C-8F14-FC274D22A890",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

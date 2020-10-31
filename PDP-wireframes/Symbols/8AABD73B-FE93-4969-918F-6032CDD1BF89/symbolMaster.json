@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -76,14 +76,6 @@
       "id": "949C5E4C-6EB9-4865-B3D9-C3E29DB6CC7F"
     },
     {
-      "class": "text",
-      "id": "76F8C502-D0F1-49CE-81DC-619405B763F9"
-    },
-    {
-      "class": "group",
-      "id": "F92AF225-68CA-4027-9C99-B4C7FE89F24D"
-    },
-    {
       "class": "group",
       "id": "FCC8C15B-C68F-484F-823A-D38D217E255F"
     }
@@ -105,16 +97,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "0F286889-E0D8-4CE1-BB30-54864351A70E_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "76F8C502-D0F1-49CE-81DC-619405B763F9_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9701DCF0-7071-4726-8447-39E3F6DA40CF_symbolID"
     }
   ],
   "presetDictionary": {
