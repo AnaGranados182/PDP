@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 13.20000028610229
+              "size": 11.87999994277953
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20.9000004529953,
-            "minimumLineHeight": 20.9000004529953
+            "maximumLineHeight": 18.80999990940093,
+            "minimumLineHeight": 18.80999990940093
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20.9000004529953,
-    "width": 138,
-    "x": 1071,
-    "y": 150
+    "height": 19,
+    "width": 124,
+    "x": 1143,
+    "y": 148
   },
-  "glyphBounds": "{{39, 7}, {60, 11}}",
+  "glyphBounds": "{{35, 7}, {54, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 11.00000023841858,
+      "radius": 9.89999995231628,
       "saturation": 1,
       "type": 0
     },
@@ -130,15 +130,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 13.20000028610229
+            "size": 11.87999994277953
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 20.9000004529953,
-          "minimumLineHeight": 20.9000004529953
+          "maximumLineHeight": 18.80999990940093,
+          "minimumLineHeight": 18.80999990940093
         },
         "textStyleVerticalAlignmentKey": 0
       },
