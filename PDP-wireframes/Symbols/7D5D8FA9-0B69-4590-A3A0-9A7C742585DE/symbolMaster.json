@@ -134,6 +134,16 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "F2527307-4EA3-4454-81F5-B2265566C54A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CE274192-3CEF-45DB-BD01-2F3A686FB295_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "C3F8E6EC-FF55-4093-AEE3-4CDAD847CDDC_stringValue"
     },
     {
