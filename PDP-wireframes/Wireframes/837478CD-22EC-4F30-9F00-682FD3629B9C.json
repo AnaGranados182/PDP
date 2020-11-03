@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "08646C02-74C3-4009-A621-45D7144E2249",
+  "do_objectID": "837478CD-22EC-4F30-9F00-682FD3629B9C",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2,
-    "width": 92,
-    "x": 1150,
-    "y": 675.0499999999993
+    "height": 29.00000000000006,
+    "width": 2,
+    "x": 900,
+    "y": 8407
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -29,29 +29,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Line 6 Copy 85",
+  "name": "Line 6 Copy 74",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.10982355304224364, -0.25000000000000011}",
+      "curveFrom": "{0.72499999999999987, 0.69693877551020378}",
       "curveMode": 1,
-      "curveTo": "{-0.10982355304224364, -0.25000000000000011}",
+      "curveTo": "{0.72499999999999987, 0.69693877551020378}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99999999999999956, 0.72500000000013631}"
+      "point": "{0.47500000000002274, 0.99897959183673357}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-0.32489725286610399, -0.25000000000000011}",
+      "curveFrom": "{0.72499999999999987, 0.69693877551020378}",
       "curveMode": 1,
-      "curveTo": "{-0.32489725286610399, -0.25000000000000011}",
+      "curveTo": "{0.72499999999999987, 0.69693877551020378}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.0054347826086953432, 0.7250000000003638}"
+      "point": "{0.47500000000002274, 0.019387755102044935}"
     }
   ],
   "resizingConstraint": 63,
@@ -72,8 +72,6 @@
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
-        1,
-        2
       ],
       "isEnabled": true,
       "lineCapStyle": 2,
@@ -144,7 +142,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "79538C9B-84B4-48FC-A428-67D4F001A806",
+    "do_objectID": "26EBDBA5-B93D-4641-AD21-0F60B2CC6A6F",
     "endMarkerType": 0,
     "fills": [
       {
@@ -201,26 +199,6 @@
       }
     ],
     "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 3,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
     ],
     "miterLimit": 10,
     "shadows": [

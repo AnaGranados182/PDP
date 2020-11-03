@@ -16,27 +16,27 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
+              "name": "Gotham-Light",
               "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 75,
         "location": 0
       }
     ],
-    "string": "Expert"
+    "string": "Lorem Ipsum is simply dummy text of the printing and… typesetting industry."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "25E077EA-58C0-4CE5-8E46-59EC3D3DE2A8",
+  "do_objectID": "1CD1014E-C78B-4411-BCB2-513AF9047EF0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 47,
-    "x": 482,
-    "y": 672
+    "height": 27.00000000000011,
+    "width": 194,
+    "x": 152,
+    "y": 8410
   },
-  "glyphBounds": "{{1, 1}, {46, 13}}",
+  "glyphBounds": "{{0, 0}, {185, 42}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Expert Copy 5",
+  "name": "Lorem Ipsum is simpl Copy 4",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AD212267-76CF-40B1-961A-61A725AF91CA",
+    "do_objectID": "47BB6E7B-63C2-4433-ACBE-1695AEBCD61A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,13 +127,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
+            "name": "Gotham-Light",
             "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
@@ -142,5 +142,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }
