@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Bold",
-              "size": 18
+              "size": 16.19999957084656
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 19,
-            "minimumLineHeight": 19
+            "maximumLineHeight": 17.0999995470047,
+            "minimumLineHeight": 17.0999995470047
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 303,
-    "x": 758,
-    "y": 152
+    "height": 24,
+    "width": 273,
+    "x": 868,
+    "y": 153
   },
-  "glyphBounds": "{{76, 5}, {227, 17}}",
+  "glyphBounds": "{{68, 5}, {205, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.999999761581421,
       "saturation": 1,
       "type": 0
     },
@@ -130,15 +130,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Bold",
-            "size": 18
+            "size": 16.19999957084656
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 19,
-          "minimumLineHeight": 19
+          "maximumLineHeight": 17.0999995470047,
+          "minimumLineHeight": 17.0999995470047
         },
         "textStyleVerticalAlignmentKey": 0
       },

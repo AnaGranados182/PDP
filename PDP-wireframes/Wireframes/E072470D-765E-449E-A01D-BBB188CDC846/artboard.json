@@ -259,6 +259,14 @@
     {
       "class": "oval",
       "id": "A52C2B77-E026-409E-93CB-F448D51563DC"
+    },
+    {
+      "class": "text",
+      "id": "0FAB062A-97F4-4955-AA85-C972C9709FE1"
+    },
+    {
+      "class": "text",
+      "id": "AA6D6BFE-89C0-4941-815D-CAA670F52BEE"
     }
   ],
   "layout": {

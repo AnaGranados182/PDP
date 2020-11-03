@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Proficient"
+    "string": "Expert"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "167455F6-C33F-4AAC-BBD5-DDFD53DBD666",
+  "do_objectID": "25E077EA-58C0-4CE5-8E46-59EC3D3DE2A8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 69,
-    "x": 592.5,
-    "y": 672
+    "width": 47,
+    "x": 404,
+    "y": 8417
   },
-  "glyphBounds": "{{1, 0}, {67, 12}}",
+  "glyphBounds": "{{1, 1}, {46, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Proficient Copy 5",
+  "name": "Expert Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7BF1C1F2-6B4A-44CE-AD70-0383376E62F4",
+    "do_objectID": "AD212267-76CF-40B1-961A-61A725AF91CA",
     "endMarkerType": 0,
     "fills": [
     ],
