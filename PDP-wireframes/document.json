@@ -108,7 +108,7 @@
       "do_objectID": "51785EEB-79F3-43B2-82DE-72AE103C3B3B",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Ultra.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Gotham-Ultra"
       ]
@@ -158,7 +158,7 @@
       "do_objectID": "80693364-4BE3-492A-9488-A31110E92BF7",
       "fontFamilyName": "Gotham",
       "fontFileName": "GothamLightItalic.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Gotham-LightItalic"
       ]
@@ -198,7 +198,7 @@
       "do_objectID": "B16C75A3-98C5-4132-AD07-F319DC57B7D1",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Book.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Gotham-Book"
       ]
