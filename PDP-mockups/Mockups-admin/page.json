@@ -40,12 +40,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "AAB2E64A-1AF6-4E6E-BD98-C448F4977F71"
+      "class": "artboard",
+      "id": "E9B2DA47-FCB9-4A26-9812-E9F784F42242"
     },
     {
       "class": "artboard",
-      "id": "E9B2DA47-FCB9-4A26-9812-E9F784F42242"
+      "id": "5BBCCD5A-0014-4013-98A7-F61F01E5ED5E"
+    },
+    {
+      "class": "rectangle",
+      "id": "EECF556D-A8D9-49C9-8721-D28364A9DBD8"
+    },
+    {
+      "class": "artboard",
+      "id": "AA3B82F5-63C9-4256-94C4-AAAD3B9FC0EC"
     }
   ],
   "name": "Mockups-admin",

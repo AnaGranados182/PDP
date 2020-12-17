@@ -16,7 +16,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "jpg",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -71,27 +71,7 @@
     },
     {
       "class": "group",
-      "id": "4D25F9B3-2AA5-4DBF-9DA9-1BC6C0F95726"
-    },
-    {
-      "class": "group",
       "id": "F21CBA79-1882-4D6A-9750-8FB80E27265C"
-    },
-    {
-      "class": "group",
-      "id": "F9BE87BA-D42D-4E5D-BFF2-62C18E2D1A72"
-    },
-    {
-      "class": "group",
-      "id": "05A2E67C-758E-4F43-B5D0-A0F59C02F8DC"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "29FF0A8F-D6BC-4E51-A1FC-66886C6EB3F0"
-    },
-    {
-      "class": "group",
-      "id": "2DDC1C6E-8108-40E0-8B90-8FAF45F76010"
     },
     {
       "class": "rectangle",
@@ -132,10 +112,6 @@
     {
       "class": "text",
       "id": "AFBE8F74-56A6-4743-8A47-C1C74C19286B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E77CA9C8-2F1A-4CCD-821B-75AA7A09A3C2"
     },
     {
       "class": "text",
@@ -199,19 +175,35 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6CCB59D7-CD4E-4BFD-8CA5-5237C5B80A32"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3C3E4B47-7DCB-42D7-A37F-6CF1C8C6E381"
-    },
-    {
-      "class": "symbolInstance",
       "id": "A1A227F5-2AB7-499E-BADD-6E2E25AF8850"
     },
     {
       "class": "symbolInstance",
       "id": "7E1ED14E-4339-49CF-95D7-C08E8539DF5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D46BA224-2D10-4FA0-81C6-F2F793FE2376"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6D5F28D-AFB3-4D12-8225-14F0551E004D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B41BE6C-0D56-450A-95BE-D7DB87FD48DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "328AE927-C83D-45BD-BAC3-E09F96F70516"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "430A5A33-0756-415A-B6D0-38505AD8489C"
+    },
+    {
+      "class": "group",
+      "id": "13BF949F-D5DF-4DFC-AEE6-710BC54F40FC"
     }
   ],
   "layout": {

@@ -70,7 +70,7 @@
         },
         "isEnabled": true,
         "position": 1,
-        "thickness": 3
+        "thickness": 0
       }
     ],
     "colorControls": {
@@ -86,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B1CEB2E3-F1D8-4B25-AD02-0FCD0011C9DD",
+    "do_objectID": "8A1DBEA9-8007-4CAF-9144-1EDCA7E3AC08",
     "endMarkerType": 0,
     "fills": [
       {
@@ -148,13 +148,13 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 6,
+        "blurRadius": 4,
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4981317934782609,
-          "green": 0.4981317934782609,
-          "red": 0.4981317934782609
+          "blue": 0.3165507969564665,
+          "green": 0.3165507969564665,
+          "red": 0.5586503623188406
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -163,7 +163,7 @@
         },
         "isEnabled": true,
         "offsetX": 1,
-        "offsetY": -2,
+        "offsetY": 0,
         "spread": 0
       }
     ],
